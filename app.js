@@ -6,7 +6,7 @@ const {linkRouter} = require('./routes/linkRoutes')
 const bodyParser = require('body-parser');
 const redirectRouter = require('./routes/redirectRoutes');
 const app = express();
-const path = requuire('path')
+const path = require('path')
 
 app.use(bodyParser.json())
 
