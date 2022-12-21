@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret":  "educational project secret",
+    "mongoUri": "mongodb+srv://AlekseiK:Mongo123@cluster0.d0zpbp8.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
